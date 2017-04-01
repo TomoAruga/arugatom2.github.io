@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages by Aruga
+## Welcome to GitHub Pages aruga
 
 You can use the [editor on GitHub](https://github.com/TomoAruga/arugatom2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
