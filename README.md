@@ -1,2 +1,2 @@
 # arugatom2.github.io
-test2aa
+* test2aa
