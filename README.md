@@ -1,4 +1,3 @@
-# arugatom2.github.io#####
-dsdsds
+# arugatom2.github.io
 
 
